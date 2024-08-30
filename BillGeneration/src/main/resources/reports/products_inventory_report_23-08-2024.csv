@@ -1,0 +1,5 @@
+ProductId,ProductName,Price,Inventory
+1,Laptop,40000.0,0
+2,Mobile,10000.0,10
+3,tv,40000.0,1
+4,ac,10000.0,3
